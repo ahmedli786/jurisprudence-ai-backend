@@ -1,3 +1,7 @@
 fastapi
 uvicorn
 pydantic
+cohere
+pinecone
+anthropic
+
