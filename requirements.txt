@@ -1,7 +1,6 @@
 fastapi
-uvicorn
+uvicorn[standard]
 pydantic
 cohere
-pinecone
+pinecone-client
 anthropic
-
